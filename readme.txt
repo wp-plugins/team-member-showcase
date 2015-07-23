@@ -11,8 +11,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Team Member Showcase is a super modern Team Member wordpress plugin. With this plugin you can display a set of pictures and information in different layouts. The main purpose of the plugin is to display team/staff members. Unlimited Colors, 100% responsive, automatic resize images, flexible, unlimited items, shortcode powered, custom link and more.
 
-The members will display in a responsive grid with the number of columns you set and with the information, You can easily add team members & embed them in separate page post or widgets.. 
-
 
 See live demo here: http://wpexpert24.com/team-member-showcase-demo/
 
