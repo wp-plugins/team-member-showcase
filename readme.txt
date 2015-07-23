@@ -163,7 +163,7 @@ After all of the steps above are done you will see a Menu named <strong>Add more
 
 <p> EX:</p>
 
-<pre>[member category="team" style="style1"]</pre>
+<pre>[member category="team" style="style1" icon_one_link="http://facebook.com" icon_two_link="http://twitter.com" icon_three_link="http://youtube.com"]</pre>
 
 
 
