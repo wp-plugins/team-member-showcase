@@ -14,6 +14,10 @@ Team Member Showcase is a super modern Team Member wordpress plugin. With this p
 
 See live demo here: http://wpexpert24.com/team-member-showcase-demo/
 
+<strong>Video Tutorial:
+</strong>
+[youtube https://www.youtube.com/watch?v=fozHbTMlHwY]
+
 <strong>Features</strong>
 
 <ul>
