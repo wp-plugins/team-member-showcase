@@ -151,10 +151,7 @@ After all of the steps above are done you will see a Menu named <strong>Add more
 
 <p> <strong>First Field </strong>: "Category Name" Put the same category name which you created before with Team Member Showcase.  Please remember that the Category Name should be the same as your Team Member Item Category.
 </p>
-
-
-
-<p> <strong>Second Field </strong>: "Select BLock Effects Style" There are 5 unique amazing Team Member Showcase Style to choose from.</p>
+<p> <strong>Second Field </strong>: "Select BLock Effects Style" There are 5 unique Team Member Showcase Style to choose from.</p>
 <p> <strong>Third Field </strong>: "Enter facebook icon url " Enter Team Member Facebook profile link.</p>
 <p> <strong>Fourth Field </strong>: "Enter Twitter icon url " Enter Team Member Twitter profile link.</p>
 <p> <strong>Fifth Field </strong>: "Enter YouTube icon url " Enter Team Member YouTube profile link.</p>
@@ -174,6 +171,14 @@ After all of the steps above are done you will see a Menu named <strong>Add more
 
 
 <h2>And See the Magic of All Team Member Showcase items, Enjoy!</h2>
+
+== Screenshots ==
+
+1. Adding Team Member item with category
+2. You can select which Member item you want to appear first.  You can also select all of your items drag and drop to move the order of each up and down in the Custom Post Panel.
+3. click the Team Member Shortcode Button, you will then see a Box open with a ShortCode Option Panel.
+4. ShortCode Option Panel. Put the same category name which you created before with Team Member Showcase custom Post, and select a style. put social profile link, click Insert.
+5. you will see a Shortcode in your post/page editor just publish and view page.
 
 == Changelog ==
 
