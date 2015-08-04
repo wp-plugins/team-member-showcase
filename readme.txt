@@ -2,7 +2,6 @@
 Contributors: Rakibur Rahman Sagar
 Tags: team member, carousel, wordpress team member, Unlimited Colors, team member wordpress plugin, team member carousel, responsive, modern team member wp hover item
 Requires at least: 3.0.1
-Tested up to: 4.1
 Stable tag: 1.0
 Tested up to: 4.2.3
 License: GPLv2 or later
