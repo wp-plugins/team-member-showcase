@@ -38,6 +38,27 @@ See live demo here: http://wpexpert24.com/team-member-showcase-demo/
 	<li>Excellent Team hover Effects. </li>
 
 </ul>
+<strong><a target="_blank" href="http://wpexpert24.com/team-member-showcase-pro/">Pro Version Features</a></strong>
+<ul>
+		<li>Support within 12 hours</li>
+		<li>100% Responsive</li>
+		<li>Cross browser Support</li>
+		<li>Unlimited Color Option</li>
+		<li>5 Different Block Style Layout</li>
+	   <li>Custom item width</li>
+	   <li>Custom item height</li>
+	   <li>Custom ordering</li>
+	   <li>Amazing option panel. </li>
+	   <li>Shortcode Powered.</li>
+	   <li>Unlimited Social Icon Form fontello.com</li>
+	   <li>Control Number of Team Member Items.</li>
+	   <li>Custom Icon Link</li>
+	   <li>Single Site License</li>
+	   <li>Developer License (unlimited use)</li>
+	   <li>24/7 Support</li>
+	
+
+</ul>
 
 == Installation ==
 
