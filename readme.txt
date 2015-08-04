@@ -185,5 +185,10 @@ After all of the steps above are done you will see a Menu named <strong>Add more
 
 == Changelog ==
 
+= 1.1 =
+* Added Social Icon Hover Color
+* Added Unlimited Social ICon
+* Added Option IN Option Panel
+
 = 1.0 =
 * Initial Release
