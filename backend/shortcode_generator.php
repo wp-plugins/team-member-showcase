@@ -36,15 +36,15 @@ return array(
 						),		
 						array(
 							'value' => 'style3',
-							'label' => 'Style 3',
+							'label' => 'Style 3(Pro Only)',
 						),		
 						array(
 							'value' => 'style4',
-							'label' => 'Style 4',
+							'label' => 'Style 4(Pro Only)',
 						),		
 						array(
 							'value' => 'style5',
-							'label' => 'Style 5',
+							'label' => 'Style 5(Pro Only)',
 						),			
 	
 				),	),		
@@ -53,7 +53,7 @@ return array(
 			 array(
 		'type' => 'slider',
 		'name' => 'width',
-		'label' => __('Item Width', 'vp_textdomain'),
+		'label' => __('Item Width <P style="color:red; font-size;10px;">Pro Only</p>', 'vp_textdomain'),
 		'description' => __('You can change Member item width in pixel format without (px)', 'vp_textdomain'),
 		'min' => '190',
 		'max' => '350',
@@ -64,7 +64,7 @@ return array(
 		array(
 		'type' => 'slider',
 		'name' => 'height',
-		'label' => __('Item Height', 'vp_textdomain'),
+		'label' => __('Item Height<P style="color:red; font-size;10px;">Pro Only</p>', 'vp_textdomain'),
 		'description' => __('You can change Member item Height in pixel format without (px)', 'vp_textdomain'),
 		'min' => '160',
 		'max' => '350',
