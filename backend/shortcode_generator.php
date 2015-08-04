@@ -11,6 +11,15 @@ return array(
 			'title' => __('Team Member Settings', 'qualia_td'),
 			'code' => '[member]',
 			'attributes' => array(
+			
+											array(
+			'type' => 'notebox',
+			'name' => 'nb_1',
+			'label' => __('Author Comment', 'vp_textdomain'),
+			'description' => __('To get all features working, please buy the pro version here <a target="_blank" href="http://wpexpert24.com/team-member-showcase-pro/">Team Member Showcase Pro</a> for only $10</a>', 'vp_textdomain'),
+			'status' => 'error',
+				),
+				
 					array(
 						'type'  => 'textbox',
 						'name'  => 'category',
