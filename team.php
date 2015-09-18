@@ -17,6 +17,8 @@ function rd_team_member_effects_style() {
 }
 add_action( 'wp_enqueue_scripts', 'rd_team_member_effects_style' );
 
+// added widgets filters
+add_filter('widget_text', 'do_shortcode');
 
 // Loading VafPress Framework
 if(!class_exists('VP_teamAutoLoader')){
