@@ -5,7 +5,7 @@ Plugin URI: http://wpexpert24.com/
 Description: Team Member Showcase is a super modern Team Member wordpress plugin. With this plugin you can display a set of pictures and information in different layouts. The main purpose of the plugin is to display team/staff members. Unlimited Colors, 100% responsive, automatic resize images, flexible, unlimited items, shortcode powered, custom link and more.
 Author: RAKIBUR RAHMAN SAGAR
 Author URI: http://wpexpert24.com/
-Version: 1.1
+Version: 1.2
 */
 
 //Loading CSS
