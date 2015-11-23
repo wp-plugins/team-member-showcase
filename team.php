@@ -28,13 +28,13 @@ defined( 'VP_TEAMRD_URL' )     or define( 'VP_TEAMRD_URL', plugin_dir_url( __FIL
 defined( 'VP_TEAMRD_DIR' )     or define( 'VP_TEAMRD_DIR', plugin_dir_path( __FILE__ ) );
 defined( 'VP_TEAMRD_FILE' )    or define( 'VP_TEAMRD_FILE', __FILE__ );
 
-// Lood Bootstrap
+// Looding Bootstrap
 require 'member-framework/bootstrap.php';
 
 }
 
 
-// Registering Custom Post
+// Registering Custom Post type
 function rd_team_member_custom_post() {
 	register_post_type( 'rd_team_member',
 		array(
@@ -75,7 +75,7 @@ function rd_team_member_custom_post_taxonomy() {
 add_action( 'init', 'rd_team_member_custom_post_taxonomy'); 
 require 'backend/icon.php';
 
-// Load Metaboxes 
+// Loading Metaboxes 
 
 new VP_Metabox(array
 (
@@ -86,7 +86,7 @@ new VP_Metabox(array
 			'template' => VP_TEAMRD_DIR . '/backend/metabox/main.php'
 ));
 
-
+//Calling Shortcode 
 require 'backend/shortcode.php';
 
 
